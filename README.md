@@ -10,4 +10,4 @@ File Descriptions:
 
 - GUI_LoanGradePrediction.ipynb: Jupyter notebook containing a user-friendly Graphical User Interface (GUI) for interacting with the loan rating prediction model.
 
-- LoanData.csv: Raw data file used for training and testing the models, including applicant information and relevant attributes.
+- LoanData.csv: Raw data file used for training and testing the models.
