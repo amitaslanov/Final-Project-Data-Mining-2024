@@ -6,7 +6,7 @@ We compare three ensemble learning methods: Random Forest, Gradient Boosting Mac
 
 File Descriptions:
 
-- Loan grade prediction - models evaluation.ipynb: Jupyter notebook evaluating the performance of Random Forest, GBM, and AdaBoost models in predicting loan ratings.
+- Loan score prediction - models evaluation.ipynb: Jupyter notebook evaluating the performance of Random Forest, GBM, and AdaBoost models in predicting loan ratings.
 
 - GUI_LoanGradePrediction.ipynb: Jupyter notebook containing a user-friendly Graphical User Interface (GUI) for interacting with the loan rating prediction model.
 
